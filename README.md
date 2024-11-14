@@ -1,4 +1,4 @@
-## Python projects form chatGPT to following along 
+## Python project Ideas
  Here’s a list of 10 practical and casual project ideas, ranging from simple automation tools to useful applications you can build using Python.
 
 ### 1. Automated Email Organizer
